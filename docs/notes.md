@@ -24,3 +24,4 @@ Notes and usage details for mqtt-sn-tools.
 - add a note about the defaults
 - link the usage section
 - link the usage section
+- fix a small wording issue
